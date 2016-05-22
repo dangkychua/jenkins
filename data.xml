@@ -1,0 +1,12 @@
+<datas>
+	<data>
+		<id>001</id>
+		<name>Jack</name>
+		<role>admin</role>
+	</data>
+	<data>
+		<id>002</id>
+		<name>Ca</name>
+		<role>developer</role>
+	</data>
+</datas>
